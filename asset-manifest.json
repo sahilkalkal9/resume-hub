@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/resume-hub/static/css/main.a4ba4666.css",
-    "main.js": "/resume-hub/static/js/main.a3db167c.js",
+    "main.css": "/resume-hub/static/css/main.852b75dd.css",
+    "main.js": "/resume-hub/static/js/main.a22bd917.js",
     "static/js/703.e46ed1f2.chunk.js": "/resume-hub/static/js/703.e46ed1f2.chunk.js",
     "static/js/598.54028198.chunk.js": "/resume-hub/static/js/598.54028198.chunk.js",
     "static/js/787.10d67009.chunk.js": "/resume-hub/static/js/787.10d67009.chunk.js",
@@ -17,14 +17,14 @@
     "static/media/linkedin.png": "/resume-hub/static/media/linkedin.92380c03cc82f139a166.png",
     "static/media/logo.svg": "/resume-hub/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/resume-hub/index.html",
-    "main.a4ba4666.css.map": "/resume-hub/static/css/main.a4ba4666.css.map",
-    "main.a3db167c.js.map": "/resume-hub/static/js/main.a3db167c.js.map",
+    "main.852b75dd.css.map": "/resume-hub/static/css/main.852b75dd.css.map",
+    "main.a22bd917.js.map": "/resume-hub/static/js/main.a22bd917.js.map",
     "703.e46ed1f2.chunk.js.map": "/resume-hub/static/js/703.e46ed1f2.chunk.js.map",
     "598.54028198.chunk.js.map": "/resume-hub/static/js/598.54028198.chunk.js.map",
     "787.10d67009.chunk.js.map": "/resume-hub/static/js/787.10d67009.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4ba4666.css",
-    "static/js/main.a3db167c.js"
+    "static/css/main.852b75dd.css",
+    "static/js/main.a22bd917.js"
   ]
 }
